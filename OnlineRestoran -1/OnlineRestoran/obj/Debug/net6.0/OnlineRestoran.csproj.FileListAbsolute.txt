@@ -1,0 +1,14 @@
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\OnlineRestoran -1\OnlineRestoran\bin\Debug\net6.0\OnlineRestoran.exe
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\OnlineRestoran -1\OnlineRestoran\bin\Debug\net6.0\OnlineRestoran.deps.json
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\OnlineRestoran -1\OnlineRestoran\bin\Debug\net6.0\OnlineRestoran.runtimeconfig.json
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\OnlineRestoran -1\OnlineRestoran\bin\Debug\net6.0\OnlineRestoran.dll
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\OnlineRestoran -1\OnlineRestoran\bin\Debug\net6.0\OnlineRestoran.pdb
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\OnlineRestoran -1\OnlineRestoran\obj\Debug\net6.0\OnlineRestoran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\OnlineRestoran -1\OnlineRestoran\obj\Debug\net6.0\OnlineRestoran.AssemblyInfoInputs.cache
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\OnlineRestoran -1\OnlineRestoran\obj\Debug\net6.0\OnlineRestoran.AssemblyInfo.cs
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\OnlineRestoran -1\OnlineRestoran\obj\Debug\net6.0\OnlineRestoran.csproj.CoreCompileInputs.cache
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\OnlineRestoran -1\OnlineRestoran\obj\Debug\net6.0\OnlineRestoran.dll
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\OnlineRestoran -1\OnlineRestoran\obj\Debug\net6.0\refint\OnlineRestoran.dll
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\OnlineRestoran -1\OnlineRestoran\obj\Debug\net6.0\OnlineRestoran.pdb
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\OnlineRestoran -1\OnlineRestoran\obj\Debug\net6.0\OnlineRestoran.genruntimeconfig.cache
+C:\Users\VİCTUS\OneDrive\Masaüstü\OOP ÖDEVLER\OnlineRestoran -1\OnlineRestoran\obj\Debug\net6.0\ref\OnlineRestoran.dll
